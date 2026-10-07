@@ -1,5 +1,5 @@
 # Rhythm Tap  
-
+ 
 A 4-lane rhythm game built with Pygame — tap and hold the right keys as notes reach the hit line.
 
 ## Setup
