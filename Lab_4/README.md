@@ -6,7 +6,7 @@ A 4-lane rhythm game built with Pygame — tap and hold the right keys as notes 
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python main.py 
 ```
 
 ## Controls
