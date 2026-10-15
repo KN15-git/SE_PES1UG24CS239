@@ -70,6 +70,24 @@ Architectural design for a **Virtual Technical Conference Platform**.
 
 ## Viewing the Files
 
+## Lab 5 - Pylint Analysis
+
+Pylint analysis was performed on `parking_lot_system.py`.
+
+Initial Pylint score: 4.10/10
+
+Issues fixed included:
+- Mutable default argument
+- Broad exception handling
+- Poor naming conventions
+- Missing docstrings
+- Use of eval()
+- Unused variables
+- Unsafe file handling
+- Other code quality issues
+
+Final Pylint score: 10.00/10
+
 1. Clone the repository:
 ```bash
    git clone https://github.com/KN15-git/SE_PES1UG24CS239.git
