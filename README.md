@@ -88,6 +88,19 @@ Issues fixed included:
 
 Final Pylint score: 10.00/10
 
+## Lab 5 - Bandit Security Analysis
+
+Bandit analysis was performed on `parking_lot_system.py`.
+
+Security issues addressed included:
+- Unsafe use of eval()
+- MD5 hashing
+- Insecure random number generation
+- os.system() command execution
+- Broad exception handling
+
+Final Bandit result: No issues identified.
+
 1. Clone the repository:
 ```bash
    git clone https://github.com/KN15-git/SE_PES1UG24CS239.git
