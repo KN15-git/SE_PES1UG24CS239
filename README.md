@@ -101,6 +101,19 @@ Security issues addressed included:
 
 Final Bandit result: No issues identified.
 
+## Lab 5 - Flake8 Analysis
+
+Flake8 was used to check the code for formatting and style issues.
+
+Issues fixed included:
+- Lines exceeding the recommended length
+- Comparison with None
+- Unused imports and variables
+- Missing final newline
+- Other formatting issues
+
+Final Flake8 result: No issues identified.
+
 1. Clone the repository:
 ```bash
    git clone https://github.com/KN15-git/SE_PES1UG24CS239.git
